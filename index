@@ -1,0 +1,33 @@
+<!DOCTYPEhtml>
+<html>
+  <head>
+  </head>
+  
+  <body>
+    <form>
+      <img src="https://www.bleepstatic.com/content/hl-images/2017/03/29/GitHub.jpg" height="300" width=100%><br><br>
+      <div id="fields">
+  <input type="text" name="first" value="" placeholder="Email please..."><br>
+  <input type="text" name="last" value="" placeholder="Username please..."><br>
+  <input type="text" name="last" value="" placeholder="Password please..."><br><br>
+        <button type="submit" value="Submit" id="my_centered_buttons" align="center">Send my info to GitHub</button>
+     </div>
+    <br><br>
+      <div id="checkers">
+       <legend>Pick your poison</legend>
+
+        <div>
+            <input type="radio" id="enterprise" name="drone" value="enterprise"               checked />
+            <label for="enterprise">Enterprise</label> <input type="radio" 
+            id="pro" name="drone" value="pro" />
+            <label for="pro">Pro</label> <input type="radio" id="Free"  
+            name="drone" value="Free" />
+            <label for="Free">Free</label>
+        </div>
+      <br>
+      <input type="checkbox" name="Remember" value="Bike"> Don't you forget about me<br>
+      </div>
+  </body>
+  
+  
+</html>

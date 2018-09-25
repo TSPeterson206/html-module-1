@@ -1,0 +1,17 @@
+#checkers {
+  text-align:center
+}
+
+#fields {
+  text-align:center
+}
+#my_centered_buttons {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12%;
+}
+
+body {
+    background-color: gray;
+}
